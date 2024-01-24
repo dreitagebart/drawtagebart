@@ -1,0 +1,47 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "http://127.0.0.1:5173",
+  "elements": [
+    {
+      "id": "r88-POWpuXvh_pi44azGz",
+      "type": "text",
+      "x": 772,
+      "y": 313,
+      "width": 114.4998779296875,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 486735611,
+      "version": 16,
+      "versionNonce": 1889288149,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1682623874285,
+      "link": null,
+      "locked": false,
+      "text": "Forellenfilet",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Forellenfilet",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
